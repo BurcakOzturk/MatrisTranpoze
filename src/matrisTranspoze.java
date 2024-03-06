@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class MatrisTranpoze {
+public class matrisTranspoze {
     public static void main(String[] args) {
 
         int[][] duzMatris = {{1, 2, 3}, {4, 5, 6}};
